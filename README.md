@@ -1,2 +1,0 @@
-# Lurzard.github.io
-Hi
