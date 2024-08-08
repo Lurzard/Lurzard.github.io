@@ -1,14 +1,12 @@
 body {
     background-color:black;
     color: whitesmoke;
-}
-
-.thumbnail {
-    display:block;
     margin: auto;
+    width: 640px; 
+    padding: 50px;
+    font-family: 'Arial', sans-serif;   
 }
-
-.thumbglyphs {
-    display:block;
-    margin: auto;
-}
+  
+img {
+    padding: 10px; 
+  }
