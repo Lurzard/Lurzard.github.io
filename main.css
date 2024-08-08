@@ -1,5 +1,14 @@
 body {
     background-color:black;
     color: whitesmoke;
-    
+}
+
+.thumbnail {
+    display:block;
+    margin: auto;
+}
+
+.thumbglyphs {
+    display:block;
+    margin: auto;
 }
