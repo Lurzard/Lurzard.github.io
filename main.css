@@ -2,3 +2,8 @@ body {
     background-color:black;
     color: whitesmoke;
 }
+
+.thumbnail {
+    align-items:center;
+    margin: 10px;
+}
