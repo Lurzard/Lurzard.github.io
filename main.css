@@ -5,7 +5,10 @@ body {
     width: 640px; 
     padding: 50px;
     font-family: 'Arial', sans-serif;   
-    text-align: center;
+}
+
+body {
+text-align: center;
 }
   
 img {
