@@ -19,6 +19,11 @@ iframe {
     margin: auto;
 }
 
-.pimg { 
-    float: left;
+.imgwt {
+    display: flex;
+    align-items: center;
+  }
+
+.imgwt img {
+    margin-right: 10px;
 }
