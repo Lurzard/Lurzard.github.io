@@ -19,12 +19,6 @@ iframe {
     margin: auto;
 }
 
-.campaigns {
-    display: flex;
-    align-items: center;
-  }
-
-span,
-h3 {
-    padding: 10px;
+.pimg { 
+    float: left;
 }
