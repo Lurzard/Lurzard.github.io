@@ -18,3 +18,13 @@ img {
 iframe {
     margin: auto;
 }
+
+.campaigns {
+    display: flex;
+    align-items: normal;
+  }
+
+  span,
+  h3 {
+    padding: 10px;
+  }
