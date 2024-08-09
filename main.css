@@ -14,3 +14,7 @@ text-align: center;
 img {
     padding: 10px; 
   }
+
+iframe {
+    margin: auto;
+}
