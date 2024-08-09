@@ -21,4 +21,5 @@ iframe {
 
 .pimg { 
     float: left;
+    overflow: auto;
 }
