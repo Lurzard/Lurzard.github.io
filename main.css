@@ -18,18 +18,3 @@ img {
 iframe {
     margin: auto;
 }
-
-.Campaigns {
-    display: flex;
-
-}
-
-.Campaigns h3,
-.Campaigns p {
-    margin: 0;
-}
-
-.Campaigns img {
-    margin-right: 10px;
-    display: block;
-}
