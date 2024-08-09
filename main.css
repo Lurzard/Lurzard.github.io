@@ -19,10 +19,17 @@ iframe {
     margin: auto;
 }
 
-.Campaign-Desc {
-    text-align: left;
+.Campaigns {
+    display: flex;
+
 }
 
-.Photo-Img {
+.Campaigns h3,
+.Campaigns p {
+    margin: 0;
+}
+
+.Campaigns img {
+    margin-right: 10px;
     display: block;
 }
