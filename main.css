@@ -10,3 +10,7 @@ body {
 img {
     padding: 10px; 
   }
+
+p {
+    text-align: center;
+}
