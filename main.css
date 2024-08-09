@@ -40,3 +40,7 @@ iframe {
   a:hover {
     color:grey;
   }
+
+  .bigbeta {
+    size: 100px
+  }
