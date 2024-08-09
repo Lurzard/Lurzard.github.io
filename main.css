@@ -23,7 +23,7 @@ iframe {
     margin: auto;
 }
 
-.cimg { 
+.pimg, .bimg { 
     display: flex;
 }
 
