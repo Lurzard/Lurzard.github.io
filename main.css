@@ -32,8 +32,12 @@ iframe {
     display: block;
   }
 
-  .links {
+  a {
     color:white;
+  }
+
+  a:hover {
+    color:grey;
   }
 
   .betatext {
