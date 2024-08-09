@@ -18,3 +18,12 @@ img {
 iframe {
     margin: auto;
 }
+
+.pimg { 
+    display: flex;
+}
+
+.pimg img {
+    margin-right: 10px;
+    display: block;
+  }
