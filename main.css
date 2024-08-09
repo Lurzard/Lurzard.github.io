@@ -18,3 +18,7 @@ img {
 iframe {
     margin: auto;
 }
+
+span {
+    text-align: left;
+}
