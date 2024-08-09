@@ -7,7 +7,7 @@ body {
     font-family: 'Arial', sans-serif;   
 }
 
-.everything {
+body {
 text-align: center;
 }
   
@@ -17,8 +17,4 @@ img {
 
 iframe {
     margin: auto;
-}
-
-.photoimg {
-    float: left;
 }
