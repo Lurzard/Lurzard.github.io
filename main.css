@@ -10,6 +10,10 @@ body {
 .everything-else {
 text-align: center;
 }
+
+.everything-else2 {
+    text-align: center;
+    }
   
 img {
     padding: 10px; 
@@ -19,11 +23,11 @@ iframe {
     margin: auto;
 }
 
-.pimg { 
+.cimg { 
     display: flex;
 }
 
-.pimg img {
+.cimg img {
     margin-right: 10px;
     display: block;
   }
