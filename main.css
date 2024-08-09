@@ -24,7 +24,7 @@ iframe {
 }
 
 .Photo-Img {
-    align-items: left;
+    display: block;
     height: 50px;
     width: 50px;
 }
