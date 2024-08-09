@@ -21,10 +21,12 @@ iframe {
 
 .Campaign-Desc {
     text-align: left;
+    float: left;
 }
 
 .Photo-Img {
     display: block;
+    float: left;
     height: 50px;
     width: 50px;
 }
