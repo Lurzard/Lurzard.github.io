@@ -19,11 +19,18 @@ iframe {
     margin: auto;
 }
 
-.imgwt {
-    display: flex;
-    align-items: center;
-  }
+@media screen and (min-width: 600px) {
 
-.imgwt img {
-    margin-right: 10px;
+
+    figure {
+      display: flex;
+    }
+
+    figcaption {
+      width: 100%;
+    }
+
+    .image-left {
+      flex-direction: row-reverse;
+    }
 }
