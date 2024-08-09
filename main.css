@@ -19,18 +19,10 @@ iframe {
     margin: auto;
 }
 
-@media screen and (min-width: 600px) {
+.photoimg {
+    float: left;
+}
 
-
-    figure {
-      display: flex;
-    }
-
-    figcaption {
-      width: 100%;
-    }
-
-    .image-left {
-      flex-direction: row-reverse;
-    }
+.phototext {
+    position: absolute;
 }
