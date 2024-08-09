@@ -7,7 +7,7 @@ body {
     font-family: 'Arial', sans-serif;   
 }
 
-body {
+.everything-else {
 text-align: center;
 }
   
@@ -27,7 +27,3 @@ iframe {
     margin-right: 10px;
     display: block;
   }
-
-span {
-    text-align: left;
-}
