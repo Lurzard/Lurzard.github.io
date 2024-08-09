@@ -18,3 +18,13 @@ img {
 iframe {
     margin: auto;
 }
+
+.Campaign-Desc {
+    text-align: left;
+}
+
+.Photo-Img {
+    align-items: left;
+    height: 50px;
+    width: 50px;
+}
