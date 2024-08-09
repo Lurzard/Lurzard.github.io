@@ -27,3 +27,7 @@ iframe {
     margin-right: 10px;
     display: block;
   }
+
+.pimg text {
+    text-align: left;
+}
