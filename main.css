@@ -21,7 +21,7 @@ iframe {
 
 .campaigns {
     display: flex;
-    align-items: normal;
+    align-items: center;
   }
 
   span,
