@@ -5,6 +5,10 @@ body {
     width: 640px; 
     padding: 50px;
     font-family: 'Arial', sans-serif;   
+    background-image: url('SH_Long.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 
 .everything-else {
