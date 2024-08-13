@@ -7,9 +7,9 @@ body {
     font-family: 'Arial', sans-serif;
 }
 
-p {
+div {
     text-align: center;
-}
+    }
 
 img {
     padding: 10px;
