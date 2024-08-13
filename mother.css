@@ -5,5 +5,14 @@ body {
     width: 640px; 
     padding: 50px;
     font-family: 'Arial', sans-serif;
-    align-items:center;
+    text-align: center;
+}
+
+img {
+    display: block;
+    padding: 10px;
+}
+
+.untitledimg {
+    height: 100px;
 }
