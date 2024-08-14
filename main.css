@@ -44,6 +44,10 @@ iframe {
     color:grey;
   }
 
+  .devment {
+    height: 90px;
+  }
+
   .bigbeta {
     height: 60px;
   }
@@ -65,8 +69,4 @@ iframe {
 
   .walware {
     height: 15px;
-  }
-
-  .devment {
-    height: 90px;
   }
