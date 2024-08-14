@@ -1,5 +1,9 @@
 body {
     text-align: center;
+    background-image: url('images/HI_C02_0_2024-08-13_10-21-41.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
 .everything {
     text-align: center;
