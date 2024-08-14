@@ -55,5 +55,11 @@ iframe {
 
   dfn {
     color:magenta;
-    text-decoration: dotted;
+    text-decoration:underline;
+    text-decoration-style: dotted;
+  }
+
+  .mothertext {
+    color:magenta;
+    text-decoration-style: dotted;
   }
