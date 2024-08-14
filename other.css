@@ -21,3 +21,7 @@ img {
 .untitledimg {
     height: 100px;
 }
+
+.hidden {
+    color: black;
+}
