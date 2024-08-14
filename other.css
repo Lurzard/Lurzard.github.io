@@ -1,4 +1,5 @@
-body {
+.everything {
+    text-align: center;
     background-color:black;
     color: magenta;
     font-size: medium;
@@ -6,10 +7,6 @@ body {
     width: 640px; 
     padding: 50px;
     font-family: 'Arial', sans-serif;
-}
-
-.everything {
-    text-align: center;
     }
 
 img {
