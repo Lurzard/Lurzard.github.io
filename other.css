@@ -3,12 +3,16 @@ body {
     margin: auto;
     width: 640px; 
     padding: 50px;
-    font-family: 'Arial', sans-serif;   
+    font-family: 'Arial', sans-serif;
+}
+
+body {
     background-image: url('images/HI_C02_0_2024-08-13_10-21-41.png');
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: cover;
 }
+
 .everything {
     text-align: center;
     color: magenta;
